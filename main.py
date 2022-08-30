@@ -18,5 +18,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print(my_function(4, 6))
 
-
+    x = 3
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
